@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>StudyGen</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>AI Study Planner</h1>
+
+<form>
+    <input type="text" placeholder="Enter Subject">
+    <input type="number" placeholder="Study Hours">
+    <button>Generate Plan</button>
+</form>
+
+<script src="script.js"></script>
+</body>
+</html>
